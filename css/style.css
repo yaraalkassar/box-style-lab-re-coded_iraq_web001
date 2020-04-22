@@ -5,6 +5,9 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background-image: url(white-wood.jpg);
+ background-size:cover;;
+ background-repeat: no-repeat;
 }
 
 .container, h1 {
@@ -37,7 +40,6 @@ h4 {
 
 .dubious {
   box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
-
   background-color: #dd4444;
 }
 
