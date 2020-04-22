@@ -58,5 +58,5 @@ h4 {
 /* start of my code*/
 img
 {
-  border: 2px solid black;
+  box-sizing: border-box;
 }
