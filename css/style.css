@@ -54,3 +54,9 @@ h4 {
 .large {
   width: 303%;
 }
+
+/* start of my code*/
+img
+{
+  border: 10px solid black;
+}
